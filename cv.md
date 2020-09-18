@@ -11,7 +11,9 @@
     - *2005 - 2010* - **Belorussian State University**;<br> Faculty of Philosophy and Social Sciences;
     
     - *2013 - 2016* - **Belorussian State Economic University**;<br> Graduate School of Management and Business;
-    ---
+
+___
+
 * ***EXPERIENCE***
 
     - *2012 - 2014* - **History teacher**; General Educational School №199 of Minsk;
@@ -21,7 +23,9 @@
     - *2017 - 2018* - **Entrepreneur**; Custom-made furniture;
 
     - *since 2019* - **Measurement specialist**; Master-Mebel Company;
-    ---
+
+___
+
 * ***HOBBIES***
 
     - **Literature:** classical literature, mostly Russian and American. Also non-fiction, philosophical and historical books, biographies of famous people.
