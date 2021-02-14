@@ -100,3 +100,11 @@ aside ul li ul li {
     font-size: 14px;
     color: black;
 }
+
+.social-image {
+    padding-right: 10px;
+}
+
+.section-image {
+    padding-right: 15px;
+}
