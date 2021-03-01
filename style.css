@@ -16,10 +16,12 @@ body {
    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.4), 0 6px 20px 0 rgba(0, 0, 0, 0.4);
    display: block;
    margin-bottom: 30px;
+   width: 250px;
+   height: 250px;
 }
 
 h1 {
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family: Roboto, sans-serif;
     text-shadow: 1px -1px 2px;
     color: navy;
     float: right;
@@ -63,23 +65,15 @@ section ul {
 p, li {
     line-height: 1.5em;
     font-size: 1.2em;
+    font-family: Roboto, sans-serif;
 }
 
 h3 {
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family: Roboto, sans-serif;
     display: block;
     background-color: rgb(228, 228, 228);
     border-bottom: 3px solid silver;
     margin-top: 40px;
-}
-
-footer {
-    text-align: center;
-    font-size: 20px;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    font-weight: 700;
-    color: white;
-    text-shadow: 2px 2px 5px black, 0 0 25px black, 0 0 10px darkblue;;
 }
 
 aside>ul {
@@ -90,7 +84,7 @@ aside>ul {
 
 aside ul li {
     font-size: 18px;
-    font-family: cursive;
+    font-family: Roboto, sans-serif;
     padding: 10px 0;
     text-shadow: 1px 1px 2px;
     color: navy;
@@ -103,8 +97,33 @@ aside ul li ul li {
 
 .social-image {
     padding-right: 10px;
+    width: 25px;
+    height: 25px;
 }
 
 .section-image {
     padding-right: 15px;
+    width: 25px;
+    height: 25px;
+}
+
+.footer {
+    display: flex;
+    justify-content: space-around;
+}
+
+.footer-elements li {
+    margin: 35px;
+}
+
+.rs {
+    width: 60px;
+}
+
+.git {
+    padding-right: 30px;
+}
+
+.year {
+    font-weight: 700;
 }
